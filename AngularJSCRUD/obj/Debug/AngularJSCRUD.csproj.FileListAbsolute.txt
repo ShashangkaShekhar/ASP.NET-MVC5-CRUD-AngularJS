@@ -1,0 +1,225 @@
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part 1\AngularJS\AngularJSCRUD\bin\roslyn\csc.exe
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part 1\AngularJS\AngularJSCRUD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part 1\AngularJS\AngularJSCRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part 1\AngularJS\AngularJSCRUD\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part 1\AngularJS\AngularJSCRUD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part 1\AngularJS\AngularJSCRUD\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part 1\AngularJS\AngularJSCRUD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part 1\AngularJS\AngularJSCRUD\bin\roslyn\System.Collections.Immutable.dll
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part 1\AngularJS\AngularJSCRUD\bin\roslyn\System.Reflection.Metadata.dll
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part 1\AngularJS\AngularJSCRUD\bin\roslyn\vbc.exe
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part 1\AngularJS\AngularJSCRUD\bin\roslyn\VBCSCompiler.exe
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part 1\AngularJS\AngularJSCRUD\bin\roslyn\VBCSCompiler.exe.config
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part 1\AngularJS\AngularJSCRUD\bin\AngularJSCRUD.dll.config
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part 1\AngularJS\AngularJSCRUD\bin\AngularJSCRUD.dll
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part 1\AngularJS\AngularJSCRUD\bin\AngularJSCRUD.pdb
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part 1\AngularJS\AngularJSCRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part 1\AngularJS\AngularJSCRUD\bin\Microsoft.Web.Infrastructure.dll
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part 1\AngularJS\AngularJSCRUD\bin\Newtonsoft.Json.dll
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part 1\AngularJS\AngularJSCRUD\bin\System.Net.Http.Formatting.dll
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part 1\AngularJS\AngularJSCRUD\bin\System.Web.Helpers.dll
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part 1\AngularJS\AngularJSCRUD\bin\System.Web.Http.dll
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part 1\AngularJS\AngularJSCRUD\bin\System.Web.Http.WebHost.dll
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part 1\AngularJS\AngularJSCRUD\bin\System.Web.Mvc.dll
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part 1\AngularJS\AngularJSCRUD\bin\System.Web.Razor.dll
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part 1\AngularJS\AngularJSCRUD\bin\System.Web.Webpages.Deployment.dll
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part 1\AngularJS\AngularJSCRUD\bin\System.Web.Webpages.dll
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part 1\AngularJS\AngularJSCRUD\bin\System.Web.Webpages.Razor.dll
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part 1\AngularJS\AngularJSCRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part 1\AngularJS\AngularJSCRUD\bin\System.Web.Razor.xml
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part 1\AngularJS\AngularJSCRUD\bin\System.Web.Webpages.xml
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part 1\AngularJS\AngularJSCRUD\bin\System.Web.Webpages.Deployment.xml
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part 1\AngularJS\AngularJSCRUD\bin\System.Web.Webpages.Razor.xml
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part 1\AngularJS\AngularJSCRUD\bin\System.Web.Helpers.xml
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part 1\AngularJS\AngularJSCRUD\bin\System.Web.Mvc.xml
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part 1\AngularJS\AngularJSCRUD\bin\Newtonsoft.Json.xml
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part 1\AngularJS\AngularJSCRUD\bin\System.Net.Http.Formatting.xml
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part 1\AngularJS\AngularJSCRUD\bin\System.Web.Http.xml
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part 1\AngularJS\AngularJSCRUD\bin\System.Web.Http.WebHost.xml
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part 1\AngularJS\AngularJSCRUD\obj\Debug\AngularJSCRUD.csprojResolveAssemblyReference.cache
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part 1\AngularJS\AngularJSCRUD\obj\Debug\AngularJSCRUD.dll
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part 1\AngularJS\AngularJSCRUD\obj\Debug\AngularJSCRUD.pdb
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part 1\AngularJS\AngularJSCRUD\bin\EntityFramework.dll
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part 1\AngularJS\AngularJSCRUD\bin\EntityFramework.SqlServer.dll
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part 1\AngularJS\AngularJSCRUD\bin\EntityFramework.xml
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part 1\AngularJS\AngularJSCRUD\bin\EntityFramework.SqlServer.xml
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part - 2\AngularJS\AngularJSCRUD\bin\roslyn\csc.exe
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part - 2\AngularJS\AngularJSCRUD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part - 2\AngularJS\AngularJSCRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part - 2\AngularJS\AngularJSCRUD\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part - 2\AngularJS\AngularJSCRUD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part - 2\AngularJS\AngularJSCRUD\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part - 2\AngularJS\AngularJSCRUD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part - 2\AngularJS\AngularJSCRUD\bin\roslyn\System.Collections.Immutable.dll
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part - 2\AngularJS\AngularJSCRUD\bin\roslyn\System.Reflection.Metadata.dll
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part - 2\AngularJS\AngularJSCRUD\bin\roslyn\vbc.exe
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part - 2\AngularJS\AngularJSCRUD\bin\roslyn\VBCSCompiler.exe
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part - 2\AngularJS\AngularJSCRUD\bin\roslyn\VBCSCompiler.exe.config
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part - 2\AngularJS\AngularJSCRUD\bin\AngularJSCRUD.dll.config
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part - 2\AngularJS\AngularJSCRUD\bin\AngularJSCRUD.dll
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part - 2\AngularJS\AngularJSCRUD\bin\AngularJSCRUD.pdb
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part - 2\AngularJS\AngularJSCRUD\bin\EntityFramework.dll
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part - 2\AngularJS\AngularJSCRUD\bin\EntityFramework.SqlServer.dll
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part - 2\AngularJS\AngularJSCRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part - 2\AngularJS\AngularJSCRUD\bin\Microsoft.Web.Infrastructure.dll
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part - 2\AngularJS\AngularJSCRUD\bin\Newtonsoft.Json.dll
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part - 2\AngularJS\AngularJSCRUD\bin\System.Net.Http.Formatting.dll
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part - 2\AngularJS\AngularJSCRUD\bin\System.Web.Helpers.dll
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part - 2\AngularJS\AngularJSCRUD\bin\System.Web.Http.dll
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part - 2\AngularJS\AngularJSCRUD\bin\System.Web.Http.WebHost.dll
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part - 2\AngularJS\AngularJSCRUD\bin\System.Web.Mvc.dll
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part - 2\AngularJS\AngularJSCRUD\bin\System.Web.Razor.dll
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part - 2\AngularJS\AngularJSCRUD\bin\System.Web.Webpages.Deployment.dll
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part - 2\AngularJS\AngularJSCRUD\bin\System.Web.Webpages.dll
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part - 2\AngularJS\AngularJSCRUD\bin\System.Web.Webpages.Razor.dll
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part - 2\AngularJS\AngularJSCRUD\bin\EntityFramework.xml
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part - 2\AngularJS\AngularJSCRUD\bin\EntityFramework.SqlServer.xml
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part - 2\AngularJS\AngularJSCRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part - 2\AngularJS\AngularJSCRUD\bin\System.Web.Razor.xml
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part - 2\AngularJS\AngularJSCRUD\bin\System.Web.Webpages.xml
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part - 2\AngularJS\AngularJSCRUD\bin\System.Web.Webpages.Deployment.xml
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part - 2\AngularJS\AngularJSCRUD\bin\System.Web.Webpages.Razor.xml
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part - 2\AngularJS\AngularJSCRUD\bin\System.Web.Helpers.xml
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part - 2\AngularJS\AngularJSCRUD\bin\System.Web.Mvc.xml
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part - 2\AngularJS\AngularJSCRUD\bin\Newtonsoft.Json.xml
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part - 2\AngularJS\AngularJSCRUD\bin\System.Net.Http.Formatting.xml
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part - 2\AngularJS\AngularJSCRUD\bin\System.Web.Http.xml
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part - 2\AngularJS\AngularJSCRUD\bin\System.Web.Http.WebHost.xml
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part - 2\AngularJS\AngularJSCRUD\obj\Debug\AngularJSCRUD.csprojResolveAssemblyReference.cache
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part - 2\AngularJS\AngularJSCRUD\obj\Debug\AngularJSCRUD.dll
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part - 2\AngularJS\AngularJSCRUD\obj\Debug\AngularJSCRUD.pdb
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part - 2\AngularJSCRUD\bin\roslyn\csc.exe
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part - 2\AngularJSCRUD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part - 2\AngularJSCRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part - 2\AngularJSCRUD\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part - 2\AngularJSCRUD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part - 2\AngularJSCRUD\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part - 2\AngularJSCRUD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part - 2\AngularJSCRUD\bin\roslyn\System.Collections.Immutable.dll
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part - 2\AngularJSCRUD\bin\roslyn\System.Reflection.Metadata.dll
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part - 2\AngularJSCRUD\bin\roslyn\vbc.exe
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part - 2\AngularJSCRUD\bin\roslyn\VBCSCompiler.exe
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part - 2\AngularJSCRUD\bin\roslyn\VBCSCompiler.exe.config
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part - 2\AngularJSCRUD\bin\AngularJSCRUD.dll.config
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part - 2\AngularJSCRUD\bin\AngularJSCRUD.dll
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part - 2\AngularJSCRUD\bin\AngularJSCRUD.pdb
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part - 2\AngularJSCRUD\bin\EntityFramework.dll
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part - 2\AngularJSCRUD\bin\EntityFramework.SqlServer.dll
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part - 2\AngularJSCRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part - 2\AngularJSCRUD\bin\Microsoft.Web.Infrastructure.dll
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part - 2\AngularJSCRUD\bin\Newtonsoft.Json.dll
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part - 2\AngularJSCRUD\bin\System.Net.Http.Formatting.dll
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part - 2\AngularJSCRUD\bin\System.Web.Helpers.dll
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part - 2\AngularJSCRUD\bin\System.Web.Http.dll
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part - 2\AngularJSCRUD\bin\System.Web.Http.WebHost.dll
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part - 2\AngularJSCRUD\bin\System.Web.Mvc.dll
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part - 2\AngularJSCRUD\bin\System.Web.Razor.dll
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part - 2\AngularJSCRUD\bin\System.Web.Webpages.Deployment.dll
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part - 2\AngularJSCRUD\bin\System.Web.Webpages.dll
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part - 2\AngularJSCRUD\bin\System.Web.Webpages.Razor.dll
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part - 2\AngularJSCRUD\bin\EntityFramework.xml
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part - 2\AngularJSCRUD\bin\EntityFramework.SqlServer.xml
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part - 2\AngularJSCRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part - 2\AngularJSCRUD\bin\System.Web.Razor.xml
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part - 2\AngularJSCRUD\bin\System.Web.Webpages.xml
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part - 2\AngularJSCRUD\bin\System.Web.Webpages.Deployment.xml
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part - 2\AngularJSCRUD\bin\System.Web.Webpages.Razor.xml
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part - 2\AngularJSCRUD\bin\System.Web.Helpers.xml
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part - 2\AngularJSCRUD\bin\System.Web.Mvc.xml
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part - 2\AngularJSCRUD\bin\Newtonsoft.Json.xml
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part - 2\AngularJSCRUD\bin\System.Net.Http.Formatting.xml
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part - 2\AngularJSCRUD\bin\System.Web.Http.xml
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part - 2\AngularJSCRUD\bin\System.Web.Http.WebHost.xml
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part - 2\AngularJSCRUD\obj\Debug\AngularJSCRUD.csprojResolveAssemblyReference.cache
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part - 2\AngularJSCRUD\obj\Debug\AngularJSCRUD.dll
+E:\MyWork\Article\Angular\Part - 2\ASP.NET MVC 5 with AngularJS Part - 2\AngularJSCRUD\obj\Debug\AngularJSCRUD.pdb
+E:\MyWork\Article\Angular\Part - 2\Pub -CP\ASP.NET MVC 5 with AngularJS Part - 2\AngularJSCRUD\bin\roslyn\csc.exe
+E:\MyWork\Article\Angular\Part - 2\Pub -CP\ASP.NET MVC 5 with AngularJS Part - 2\AngularJSCRUD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\MyWork\Article\Angular\Part - 2\Pub -CP\ASP.NET MVC 5 with AngularJS Part - 2\AngularJSCRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\MyWork\Article\Angular\Part - 2\Pub -CP\ASP.NET MVC 5 with AngularJS Part - 2\AngularJSCRUD\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\MyWork\Article\Angular\Part - 2\Pub -CP\ASP.NET MVC 5 with AngularJS Part - 2\AngularJSCRUD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\MyWork\Article\Angular\Part - 2\Pub -CP\ASP.NET MVC 5 with AngularJS Part - 2\AngularJSCRUD\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\MyWork\Article\Angular\Part - 2\Pub -CP\ASP.NET MVC 5 with AngularJS Part - 2\AngularJSCRUD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\MyWork\Article\Angular\Part - 2\Pub -CP\ASP.NET MVC 5 with AngularJS Part - 2\AngularJSCRUD\bin\roslyn\System.Collections.Immutable.dll
+E:\MyWork\Article\Angular\Part - 2\Pub -CP\ASP.NET MVC 5 with AngularJS Part - 2\AngularJSCRUD\bin\roslyn\System.Reflection.Metadata.dll
+E:\MyWork\Article\Angular\Part - 2\Pub -CP\ASP.NET MVC 5 with AngularJS Part - 2\AngularJSCRUD\bin\roslyn\vbc.exe
+E:\MyWork\Article\Angular\Part - 2\Pub -CP\ASP.NET MVC 5 with AngularJS Part - 2\AngularJSCRUD\bin\roslyn\VBCSCompiler.exe
+E:\MyWork\Article\Angular\Part - 2\Pub -CP\ASP.NET MVC 5 with AngularJS Part - 2\AngularJSCRUD\bin\roslyn\VBCSCompiler.exe.config
+E:\MyWork\Article\Angular\Part - 2\Pub -CP\ASP.NET MVC 5 with AngularJS Part - 2\AngularJSCRUD\bin\AngularJSCRUD.dll.config
+E:\MyWork\Article\Angular\Part - 2\Pub -CP\ASP.NET MVC 5 with AngularJS Part - 2\AngularJSCRUD\bin\AngularJSCRUD.dll
+E:\MyWork\Article\Angular\Part - 2\Pub -CP\ASP.NET MVC 5 with AngularJS Part - 2\AngularJSCRUD\bin\AngularJSCRUD.pdb
+E:\MyWork\Article\Angular\Part - 2\Pub -CP\ASP.NET MVC 5 with AngularJS Part - 2\AngularJSCRUD\bin\EntityFramework.dll
+E:\MyWork\Article\Angular\Part - 2\Pub -CP\ASP.NET MVC 5 with AngularJS Part - 2\AngularJSCRUD\bin\EntityFramework.SqlServer.dll
+E:\MyWork\Article\Angular\Part - 2\Pub -CP\ASP.NET MVC 5 with AngularJS Part - 2\AngularJSCRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\MyWork\Article\Angular\Part - 2\Pub -CP\ASP.NET MVC 5 with AngularJS Part - 2\AngularJSCRUD\bin\Microsoft.Web.Infrastructure.dll
+E:\MyWork\Article\Angular\Part - 2\Pub -CP\ASP.NET MVC 5 with AngularJS Part - 2\AngularJSCRUD\bin\Newtonsoft.Json.dll
+E:\MyWork\Article\Angular\Part - 2\Pub -CP\ASP.NET MVC 5 with AngularJS Part - 2\AngularJSCRUD\bin\System.Net.Http.Formatting.dll
+E:\MyWork\Article\Angular\Part - 2\Pub -CP\ASP.NET MVC 5 with AngularJS Part - 2\AngularJSCRUD\bin\System.Web.Helpers.dll
+E:\MyWork\Article\Angular\Part - 2\Pub -CP\ASP.NET MVC 5 with AngularJS Part - 2\AngularJSCRUD\bin\System.Web.Http.dll
+E:\MyWork\Article\Angular\Part - 2\Pub -CP\ASP.NET MVC 5 with AngularJS Part - 2\AngularJSCRUD\bin\System.Web.Http.WebHost.dll
+E:\MyWork\Article\Angular\Part - 2\Pub -CP\ASP.NET MVC 5 with AngularJS Part - 2\AngularJSCRUD\bin\System.Web.Mvc.dll
+E:\MyWork\Article\Angular\Part - 2\Pub -CP\ASP.NET MVC 5 with AngularJS Part - 2\AngularJSCRUD\bin\System.Web.Razor.dll
+E:\MyWork\Article\Angular\Part - 2\Pub -CP\ASP.NET MVC 5 with AngularJS Part - 2\AngularJSCRUD\bin\System.Web.Webpages.Deployment.dll
+E:\MyWork\Article\Angular\Part - 2\Pub -CP\ASP.NET MVC 5 with AngularJS Part - 2\AngularJSCRUD\bin\System.Web.Webpages.dll
+E:\MyWork\Article\Angular\Part - 2\Pub -CP\ASP.NET MVC 5 with AngularJS Part - 2\AngularJSCRUD\bin\System.Web.Webpages.Razor.dll
+E:\MyWork\Article\Angular\Part - 2\Pub -CP\ASP.NET MVC 5 with AngularJS Part - 2\AngularJSCRUD\bin\EntityFramework.xml
+E:\MyWork\Article\Angular\Part - 2\Pub -CP\ASP.NET MVC 5 with AngularJS Part - 2\AngularJSCRUD\bin\EntityFramework.SqlServer.xml
+E:\MyWork\Article\Angular\Part - 2\Pub -CP\ASP.NET MVC 5 with AngularJS Part - 2\AngularJSCRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\MyWork\Article\Angular\Part - 2\Pub -CP\ASP.NET MVC 5 with AngularJS Part - 2\AngularJSCRUD\bin\System.Web.Razor.xml
+E:\MyWork\Article\Angular\Part - 2\Pub -CP\ASP.NET MVC 5 with AngularJS Part - 2\AngularJSCRUD\bin\System.Web.Webpages.xml
+E:\MyWork\Article\Angular\Part - 2\Pub -CP\ASP.NET MVC 5 with AngularJS Part - 2\AngularJSCRUD\bin\System.Web.Webpages.Deployment.xml
+E:\MyWork\Article\Angular\Part - 2\Pub -CP\ASP.NET MVC 5 with AngularJS Part - 2\AngularJSCRUD\bin\System.Web.Webpages.Razor.xml
+E:\MyWork\Article\Angular\Part - 2\Pub -CP\ASP.NET MVC 5 with AngularJS Part - 2\AngularJSCRUD\bin\System.Web.Helpers.xml
+E:\MyWork\Article\Angular\Part - 2\Pub -CP\ASP.NET MVC 5 with AngularJS Part - 2\AngularJSCRUD\bin\System.Web.Mvc.xml
+E:\MyWork\Article\Angular\Part - 2\Pub -CP\ASP.NET MVC 5 with AngularJS Part - 2\AngularJSCRUD\bin\Newtonsoft.Json.xml
+E:\MyWork\Article\Angular\Part - 2\Pub -CP\ASP.NET MVC 5 with AngularJS Part - 2\AngularJSCRUD\bin\System.Net.Http.Formatting.xml
+E:\MyWork\Article\Angular\Part - 2\Pub -CP\ASP.NET MVC 5 with AngularJS Part - 2\AngularJSCRUD\bin\System.Web.Http.xml
+E:\MyWork\Article\Angular\Part - 2\Pub -CP\ASP.NET MVC 5 with AngularJS Part - 2\AngularJSCRUD\bin\System.Web.Http.WebHost.xml
+E:\MyWork\Article\Angular\Part - 2\Pub -CP\ASP.NET MVC 5 with AngularJS Part - 2\AngularJSCRUD\obj\Debug\AngularJSCRUD.csprojResolveAssemblyReference.cache
+E:\MyWork\Article\Angular\Part - 2\Pub -CP\ASP.NET MVC 5 with AngularJS Part - 2\AngularJSCRUD\obj\Debug\AngularJSCRUD.dll
+E:\MyWork\Article\Angular\Part - 2\Pub -CP\ASP.NET MVC 5 with AngularJS Part - 2\AngularJSCRUD\obj\Debug\AngularJSCRUD.pdb
+E:\MyWork\Article\Angular\Part - 2\Pub -CP\ASP.NET MVC 5 with AngularJS Part - 2 - Package\AngularJSCRUD\bin\roslyn\csc.exe
+E:\MyWork\Article\Angular\Part - 2\Pub -CP\ASP.NET MVC 5 with AngularJS Part - 2 - Package\AngularJSCRUD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\MyWork\Article\Angular\Part - 2\Pub -CP\ASP.NET MVC 5 with AngularJS Part - 2 - Package\AngularJSCRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\MyWork\Article\Angular\Part - 2\Pub -CP\ASP.NET MVC 5 with AngularJS Part - 2 - Package\AngularJSCRUD\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\MyWork\Article\Angular\Part - 2\Pub -CP\ASP.NET MVC 5 with AngularJS Part - 2 - Package\AngularJSCRUD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\MyWork\Article\Angular\Part - 2\Pub -CP\ASP.NET MVC 5 with AngularJS Part - 2 - Package\AngularJSCRUD\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\MyWork\Article\Angular\Part - 2\Pub -CP\ASP.NET MVC 5 with AngularJS Part - 2 - Package\AngularJSCRUD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\MyWork\Article\Angular\Part - 2\Pub -CP\ASP.NET MVC 5 with AngularJS Part - 2 - Package\AngularJSCRUD\bin\roslyn\System.Collections.Immutable.dll
+E:\MyWork\Article\Angular\Part - 2\Pub -CP\ASP.NET MVC 5 with AngularJS Part - 2 - Package\AngularJSCRUD\bin\roslyn\System.Reflection.Metadata.dll
+E:\MyWork\Article\Angular\Part - 2\Pub -CP\ASP.NET MVC 5 with AngularJS Part - 2 - Package\AngularJSCRUD\bin\roslyn\vbc.exe
+E:\MyWork\Article\Angular\Part - 2\Pub -CP\ASP.NET MVC 5 with AngularJS Part - 2 - Package\AngularJSCRUD\bin\roslyn\VBCSCompiler.exe
+E:\MyWork\Article\Angular\Part - 2\Pub -CP\ASP.NET MVC 5 with AngularJS Part - 2 - Package\AngularJSCRUD\bin\roslyn\VBCSCompiler.exe.config
+E:\MyWork\Article\Angular\Part - 2\Pub -CP\ASP.NET MVC 5 with AngularJS Part - 2 - Package\AngularJSCRUD\bin\AngularJSCRUD.dll.config
+E:\MyWork\Article\Angular\Part - 2\Pub -CP\ASP.NET MVC 5 with AngularJS Part - 2 - Package\AngularJSCRUD\bin\AngularJSCRUD.dll
+E:\MyWork\Article\Angular\Part - 2\Pub -CP\ASP.NET MVC 5 with AngularJS Part - 2 - Package\AngularJSCRUD\bin\AngularJSCRUD.pdb
+E:\MyWork\Article\Angular\Part - 2\Pub -CP\ASP.NET MVC 5 with AngularJS Part - 2 - Package\AngularJSCRUD\bin\EntityFramework.dll
+E:\MyWork\Article\Angular\Part - 2\Pub -CP\ASP.NET MVC 5 with AngularJS Part - 2 - Package\AngularJSCRUD\bin\EntityFramework.SqlServer.dll
+E:\MyWork\Article\Angular\Part - 2\Pub -CP\ASP.NET MVC 5 with AngularJS Part - 2 - Package\AngularJSCRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\MyWork\Article\Angular\Part - 2\Pub -CP\ASP.NET MVC 5 with AngularJS Part - 2 - Package\AngularJSCRUD\bin\Microsoft.Web.Infrastructure.dll
+E:\MyWork\Article\Angular\Part - 2\Pub -CP\ASP.NET MVC 5 with AngularJS Part - 2 - Package\AngularJSCRUD\bin\Newtonsoft.Json.dll
+E:\MyWork\Article\Angular\Part - 2\Pub -CP\ASP.NET MVC 5 with AngularJS Part - 2 - Package\AngularJSCRUD\bin\System.Net.Http.Formatting.dll
+E:\MyWork\Article\Angular\Part - 2\Pub -CP\ASP.NET MVC 5 with AngularJS Part - 2 - Package\AngularJSCRUD\bin\System.Web.Helpers.dll
+E:\MyWork\Article\Angular\Part - 2\Pub -CP\ASP.NET MVC 5 with AngularJS Part - 2 - Package\AngularJSCRUD\bin\System.Web.Http.dll
+E:\MyWork\Article\Angular\Part - 2\Pub -CP\ASP.NET MVC 5 with AngularJS Part - 2 - Package\AngularJSCRUD\bin\System.Web.Http.WebHost.dll
+E:\MyWork\Article\Angular\Part - 2\Pub -CP\ASP.NET MVC 5 with AngularJS Part - 2 - Package\AngularJSCRUD\bin\System.Web.Mvc.dll
+E:\MyWork\Article\Angular\Part - 2\Pub -CP\ASP.NET MVC 5 with AngularJS Part - 2 - Package\AngularJSCRUD\bin\System.Web.Razor.dll
+E:\MyWork\Article\Angular\Part - 2\Pub -CP\ASP.NET MVC 5 with AngularJS Part - 2 - Package\AngularJSCRUD\bin\System.Web.Webpages.Deployment.dll
+E:\MyWork\Article\Angular\Part - 2\Pub -CP\ASP.NET MVC 5 with AngularJS Part - 2 - Package\AngularJSCRUD\bin\System.Web.Webpages.dll
+E:\MyWork\Article\Angular\Part - 2\Pub -CP\ASP.NET MVC 5 with AngularJS Part - 2 - Package\AngularJSCRUD\bin\System.Web.Webpages.Razor.dll
+E:\MyWork\Article\Angular\Part - 2\Pub -CP\ASP.NET MVC 5 with AngularJS Part - 2 - Package\AngularJSCRUD\bin\EntityFramework.xml
+E:\MyWork\Article\Angular\Part - 2\Pub -CP\ASP.NET MVC 5 with AngularJS Part - 2 - Package\AngularJSCRUD\bin\EntityFramework.SqlServer.xml
+E:\MyWork\Article\Angular\Part - 2\Pub -CP\ASP.NET MVC 5 with AngularJS Part - 2 - Package\AngularJSCRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\MyWork\Article\Angular\Part - 2\Pub -CP\ASP.NET MVC 5 with AngularJS Part - 2 - Package\AngularJSCRUD\bin\System.Web.Razor.xml
+E:\MyWork\Article\Angular\Part - 2\Pub -CP\ASP.NET MVC 5 with AngularJS Part - 2 - Package\AngularJSCRUD\bin\System.Web.Webpages.xml
+E:\MyWork\Article\Angular\Part - 2\Pub -CP\ASP.NET MVC 5 with AngularJS Part - 2 - Package\AngularJSCRUD\bin\System.Web.Webpages.Deployment.xml
+E:\MyWork\Article\Angular\Part - 2\Pub -CP\ASP.NET MVC 5 with AngularJS Part - 2 - Package\AngularJSCRUD\bin\System.Web.Webpages.Razor.xml
+E:\MyWork\Article\Angular\Part - 2\Pub -CP\ASP.NET MVC 5 with AngularJS Part - 2 - Package\AngularJSCRUD\bin\System.Web.Helpers.xml
+E:\MyWork\Article\Angular\Part - 2\Pub -CP\ASP.NET MVC 5 with AngularJS Part - 2 - Package\AngularJSCRUD\bin\System.Web.Mvc.xml
+E:\MyWork\Article\Angular\Part - 2\Pub -CP\ASP.NET MVC 5 with AngularJS Part - 2 - Package\AngularJSCRUD\bin\Newtonsoft.Json.xml
+E:\MyWork\Article\Angular\Part - 2\Pub -CP\ASP.NET MVC 5 with AngularJS Part - 2 - Package\AngularJSCRUD\bin\System.Net.Http.Formatting.xml
+E:\MyWork\Article\Angular\Part - 2\Pub -CP\ASP.NET MVC 5 with AngularJS Part - 2 - Package\AngularJSCRUD\bin\System.Web.Http.xml
+E:\MyWork\Article\Angular\Part - 2\Pub -CP\ASP.NET MVC 5 with AngularJS Part - 2 - Package\AngularJSCRUD\bin\System.Web.Http.WebHost.xml
+E:\MyWork\Article\Angular\Part - 2\Pub -CP\ASP.NET MVC 5 with AngularJS Part - 2 - Package\AngularJSCRUD\obj\Debug\AngularJSCRUD.csprojResolveAssemblyReference.cache
+E:\MyWork\Article\Angular\Part - 2\Pub -CP\ASP.NET MVC 5 with AngularJS Part - 2 - Package\AngularJSCRUD\obj\Debug\AngularJSCRUD.dll
+E:\MyWork\Article\Angular\Part - 2\Pub -CP\ASP.NET MVC 5 with AngularJS Part - 2 - Package\AngularJSCRUD\obj\Debug\AngularJSCRUD.pdb

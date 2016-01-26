@@ -1,0 +1,41 @@
+﻿#content label {
+    width: 150px;
+}
+
+.btn {
+    margin-left: 140px;
+}
+
+#content input[type=submit] {
+    width: 85px;
+    padding: 5px 15px;
+    background: #ff6a00;
+    border: 0 none;
+    cursor: pointer;
+    color: #fff;
+}
+
+.error {
+    color: red;
+}
+
+.color-default {
+    color: #000;
+}
+
+.color-red {
+    color: red;
+}
+
+.color-green {
+    color: green;
+}
+
+#content input.ng-dirty.ng-invalid {
+    border: 1px solid red;
+    background-color: rgb(255, 244, 244);
+}
+
+[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {
+  display: none !important;
+}

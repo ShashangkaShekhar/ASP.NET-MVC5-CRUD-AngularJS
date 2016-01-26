@@ -1,0 +1,58 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Create Customer</h2>
+
+<div id="content" ng-controller="CustomerController">
+    <span ng-show="isViewLoading" class="viewLoading">
+        <img src="~/Content/images/ng-loader.gif" /> loading...
+    </span>
+    <div ng-class="result">{{message}}</div>
+    <hr />
+    <form name="frmCustomer" novalidate>
+        <div>
+            <input type="hidden" ng-model="custModel.Id" name="cid" />
+        </div>
+        <div>
+            <label for="email">Customer Name</label>
+            <input type="text" ng-model="custModel.CustName" name="cname" placeholder="" required ng-minlength="4" ng-maxlength="14" />
+            <span class="error" ng-show="(frmCustomer.$dirty||submitted) && frmCustomer.cname.$error.required">Customer name is Required</span>
+            <span class="error" ng-show="frmCustomer.$dirty && frmCustomer.cname.$error.minlength">Minimum length required is 5</span>
+            <span class="error" ng-show="frmCustomer.$dirty && frmCustomer.cname.$error.maxlength">Minimum length required is 15</span>
+        </div>
+        <div>
+            <label for="email">E-mail address</label>
+            <input type="email" ng-model="custModel.CustEmail" name="email" placeholder="" required />
+            <span class="error" ng-show="(frmCustomer.$dirty ||submitted) && frmCustomer.email.$error.required">EmailId is Required!</span>
+            <span class="error" ng-show="(frmCustomer.$dirty ||submitted) && frmCustomer.$error.email">Invalid EmailId!</span>
+        </div>
+        <div class="btn">
+            <input type="submit" value="Save" ng-click="saveCustomer()" ng-disabled="frmCustomer.$invalid">
+            <input type="submit" value="Update" ng-click="updateCustomer()" ng-disabled="frmCustomer.$invalid">
+        </div>
+    </form>
+    <hr />
+
+    <h2>All Customers</h2>
+    <table class="table table-striped">
+        <tr ng-repeat="custModel in ListCustomer">
+            <td>{{custModel.Id}}</td>
+            <td>{{custModel.CustName}}</td>
+            <td>{{custModel.CustEmail}}</td>
+            <td>
+                <a href="#" ng-click="getCustomer(custModel)" title="Edit Record">
+                    <img src="~/Content/images/edit.png" />
+                </a><a href="#" ng-click="deleteCustomer(custModel)" title="Delete Record">
+                    <img src="~/Content/images/erase.png" />
+                </a>
+            </td>
+        </tr>
+    </table>
+</div>
+
+@section JavaScript{
+    <script src="~/Scripts/angular.js"></script>
+    <script src="~/ScriptsNg/CustomerController.js"></script>
+}
